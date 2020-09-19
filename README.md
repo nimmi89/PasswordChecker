@@ -2,7 +2,7 @@
 
 ## Description
 
-This program intends to find the count of number of times your password has been hacked without passing it over the Internet. The solution utilises a sha-hash code to find the right match.
+This program intends to find the number of times your password has been hacked without passing it over the Internet. The solution utilises partial  password sha-hash matching to find the right count.
 
 ## Requirements
 
@@ -34,4 +34,4 @@ helloooooo was found 76 times..You should probably change your password!!!
 done
 ```
 
-Check your password today itself and ensure security in your web activities!!! Keep learnig!!!
+Check your password today itself, consider changing it if required and ensure security in your web activities!!! Keep learning!!!
